@@ -28,6 +28,8 @@
   },
   "type": "RollApp",
   "da": "Avail",
+  "goldberg": true,
+  "availAddress": "5GqMdcDtRZhnz8epyKhs7uHQhPvgrkBfGrYHGQn8mXJEasNA",
   "description": "Experimental First Rollapp",
   "analytics": true,
   "rewards": true
